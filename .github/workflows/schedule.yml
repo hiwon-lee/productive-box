@@ -13,5 +13,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: ${{ 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 }}
-          GIST_ID: ${{ https://gist.github.com/hiwon-lee/437edc3fd2c4d7c5e0344858dfe03430 }}
+          GIST_ID: ${{437edc3fd2c4d7c5e0344858dfe03430 }}
           TIMEZONE: Asia/Seoul
